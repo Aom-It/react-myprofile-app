@@ -21,7 +21,7 @@ export default function MyCard() {
   return (
     <aside className="my-card">
       <div className="my-card__brand">
-        <span>C</span>hanintorn
+        <span>W</span>itsanu
       </div>
       <img className="my-card__photo" src={PROFILE.photo} alt={PROFILE.name} />
       <p className="my-card__id">{PROFILE.studentId}</p>
