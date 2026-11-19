@@ -12,7 +12,7 @@
 <div align="center">
   <img src="./public/preview.png" alt="Witsanu Portfolio Preview" width="85%" />
   <br />
-  <p><strong>🔗 Live Demo:</strong> <a href="https://your-vercel-link.vercel.app">witsanu-portfolio.vercel.app</a> (Deployed via Vercel)</p>
+  <p><strong>🔗 Live Demo:</strong> <a href="[https://your-vercel-link.vercel.app](https://vercel.com/aom-vscode/~/deployments)">witsanu-portfolio.vercel.app</a> (Deployed via Vercel)</p>
 </div>
 
 ---
